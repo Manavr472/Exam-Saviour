@@ -34,6 +34,10 @@ class MyHeader extends HTMLElement{
                   </li>
                   <li><a class="dropdown-item" href="pdf.html">Pdfs</a></li>
                 </ul>
+<<<<<<< HEAD
+              
+=======
+>>>>>>> 992bda0f9556b48fdce670071332e6d7d519dfa7
             </ul>
           </div>
         </div>
